@@ -5,10 +5,10 @@
 # Overview
 This project is just to practice my machine learning hobbies
 
-#Note
+# Note
 Remember to download phobert_report.pth and transformerocr.pth and put it to ./weights folder
 
-#Pipeline
+# Pipeline
 1. Create a template data with csv file contain coordinate
 2. Use doc_scanner to preprocess images
 3. Matching coordinate from the template to preprocessed images
