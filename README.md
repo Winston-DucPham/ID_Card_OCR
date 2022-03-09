@@ -14,6 +14,7 @@ Remember to download phobert_report.pth and transformerocr.pth and put it to ./w
 3. Matching coordinate from the template to preprocessed images
 4. The OCR process is using VietOCR with TransformerOCR model and dataset to regconize vietnamese character
 5. Correction process is using PhoBert dataset but my NLP knowledge is limited so I will implement this later :> 
-![](./pipeline.PNG)
-![](./pipeline_demo.PNG)
+
+![](./pipeline.png)
+![](./pipeline_demo.png)
 
